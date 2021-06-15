@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sub Category 2 &#8211; Shanti Overseas PTE LTD</title>
+	<atom:link href="http://117.239.83.200/shantioverseas/products/sub-product-category-2/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 18 Aug 2020 17:55:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.14</generator>
+	<item>
+		<title>Product With Accordion Contents 2</title>
+		<link>/product-details/product-with-accordion-contents-2/</link>
+		<comments>/product-details/product-with-accordion-contents-2/#respond</comments>
+		<pubDate>Fri, 06 Feb 2015 10:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://rttheme19.rtthemes.com/product-details/product-with-accordion-contents-2/</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. At vero eos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<ul>
+<li>Unordered list test</li>
+<li>Another list element.</li>
+<li>Yet another element in the list.</li>
+<li>Some long text. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/product-details/product-with-accordion-contents-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Product Without Tabs</title>
+		<link>/product-details/product-without-tabs/</link>
+		<pubDate>Fri, 06 Feb 2015 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://rttheme19.rtthemes.com/product-details/product-with-all-elements-2-2-2/</guid>
+		<description><![CDATA[Cras ornare pharetra sapien ac semper. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Cras ornare pharetra sapien ac semper.</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<h4>List Sample</h4>
+<ul>
+<li>Unordered list test</li>
+<li>Another list element.</li>
+<li>Yet another element in the list.</li>
+<li>Some long text. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada venenatis pellentesque. Sed consequat molestie urna, ut porta magna tristique at. Duis vestibulum scelerisque nulla quis iaculis. Vestibulum gravida, ante eu elementum aliquet, diam urna fermentum est, consequat finibus libero felis eget quam. Aliquam a quam nec sem iaculis convallis nec sed diam. Cras vulputate volutpat laoreet. Aliquam ut dignissim felis, ac laoreet velit. In lobortis facilisis nibh, eget pretium libero tempor non. Etiam mattis augue justo, vel suscipit justo suscipit quis. Sed mi metus, fermentum nec finibus ac, volutpat vitae mi. Nulla placerat blandit gravida. Nunc ac neque vel lectus semper finibus sed eget urna. Etiam luctus scelerisque ante, vel iaculis arcu semper ut. Phasellus vulputate viverra orci eu mollis. Pellentesque nec ante id elit feugiat aliquam. Fusce quis felis ipsum.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>Table Header</th>
+<th>Table Header</th>
+<th>Table Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">1</th>
+<td>Lorem</td>
+<td>Ipsum</td>
+<td>Dolor</td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td>Lorem</td>
+<td>Ipsum</td>
+<td>Dolor</td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td>Lorem</td>
+<td>Ipsum</td>
+<td>Dolor</td>
+</tr>
+</tbody>
+</table>
+<p>Phasellus semper ipsum ut nulla tempus auctor. Proin ac mattis ante, eget sodales ante. Nullam semper tincidunt mauris, sit amet porttitor ipsum pharetra sit amet. Morbi quis nunc interdum, venenatis tortor eget, dictum eros. Curabitur id felis vehicula, pretium sapien nec, vestibulum arcu. Nullam erat ante, condimentum ultrices ipsum eget, cursus elementum mi. Sed ultricies turpis ut purus vulputate, et euismod sapien malesuada. Vivamus ex tellus, dignissim nec vehicula quis, lobortis vel ligula. Sed nec sapien eu dui scelerisque rutrum. Aenean blandit, ligula ut sollicitudin sagittis, nunc dolor sagittis elit, sit amet posuere orci libero nec nunc. Nunc sollicitudin nisi orci, ac vehicula lacus interdum quis.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Product With Vertical Tabs</title>
+		<link>/product-details/product-with-vertical-tabs/</link>
+		<comments>/product-details/product-with-vertical-tabs/#respond</comments>
+		<pubDate>Fri, 06 Feb 2015 09:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://rttheme19.rtthemes.com/product-details/product-with-all-elements-2-2/</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. At vero eos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h2>
+<p>Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<h4>List Sample</h4>
+<ul>
+<li>Unordered list test</li>
+<li>Another list element.</li>
+<li>Yet another element in the list.</li>
+<li>Some long text. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla hendrerit vestibulum posuere. Maecenas maximus, libero ut mollis rutrum, elit nisi vulputate nisi, ac tincidunt massa odio id mi. In nisl tortor, ornare ac fermentum et, sagittis in lectus. Ut vitae elementum leo. Vestibulum in placerat leo, vel finibus elit.</p>
+<p>Pellentesque scelerisque efficitur iaculis. Phasellus porttitor, libero eu consectetur blandit, lacus ligula feugiat justo, eget venenatis urna dui non justo. Cras ornare pharetra sapien ac semper. Praesent aliquet, lectus at vestibulum facilisis, nulla tortor suscipit nisi, ut rutrum urna ante at mauris. Aliquam interdum ante risus, eget maximus orci auctor hendrerit.</p>
+]]></content:encoded>
+			<wfw:commentRss>/product-details/product-with-vertical-tabs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
