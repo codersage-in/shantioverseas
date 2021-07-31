@@ -1,5 +1,7 @@
 # shantioverseas
 
+Directory location: /var/www/html
+
 sudo yum reinstall mod_ssl
 
 run sudo service httpd restart
