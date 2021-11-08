@@ -1,5 +1,7 @@
 # shantioverseas
 
+Command to Restart httpd on system reboot : sudo chkconfig httpd on
+
 Directory location: /var/www/html
 
 sudo yum reinstall mod_ssl
