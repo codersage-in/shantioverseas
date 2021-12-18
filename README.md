@@ -4,7 +4,7 @@ Command to Restart httpd on system reboot : sudo chkconfig httpd on
 
 Directory location: /var/www/html
 
-sudo yum reinstall mod_ssl
+sudo yum install mod_ssl
 
 run sudo service httpd restart
 
